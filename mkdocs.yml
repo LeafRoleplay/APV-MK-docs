@@ -22,6 +22,7 @@ theme:
   language: nl
 
 extra:
+  generator: false
   analytics: 
     feedback:
       title: Was this page helpful?
@@ -36,7 +37,6 @@ extra:
           data: 0
           note: >- 
             Bedankt voor jou feedback! Help ons door deze pagina te gebruiken <a href="..." target="_blank" rel="noopener">feedback form</a>.
-  generator: false
   consent:
     title: Cookies
     description: >- 
