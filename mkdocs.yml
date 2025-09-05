@@ -69,9 +69,12 @@ extra:
     - LEAF Team: team.md
     - Algmene Regels: algemeen.md
     - Onderwereld Regels: onderwereld.md
+
   copyright: Copyright &copy; 2025 Karel
+
   plugins:
   - offline
+  
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/leafrp
