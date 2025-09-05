@@ -1,7 +1,7 @@
 site_name: LEAF Roleplay
 site_url: https://mydomain.org/mysite
 theme:
-  name: material
+  name: readthedocs
   logo: leaf.png
   favicon: leaf.png
   palette:
