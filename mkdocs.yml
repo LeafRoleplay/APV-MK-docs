@@ -58,6 +58,7 @@ extra:
     - navigation.expand
     - navigation.path
     - navigation.footer
+    - header.autohide
   nav: 
     - Home: index.md
     - LEAF Team: team.md
