@@ -1,0 +1,57 @@
+site_name: LEAF Roleplay
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  logo: leaf.png
+  favicon: leaf.png
+  palette:
+   # Palette toggle for light mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to light mode
+
+    # Palette toggle for dark mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+      primary: deep purple
+      accent: black
+    
+  language: nl
+  extra:
+  generator: false
+  consent:
+    title: Cookies
+    description: >- 
+      We gebruiken cookies om uw herhaalde bezoeken en voorkeuren te herkennen, en
+      om de effectiviteit van onze documentatie te meten en of gebruikers
+      vinden wat ze zoeken. Met uw toestemming helpt u ons om
+      onze documentatie te verbeteren.
+    actions:
+      - accept
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - header.autohide
+    - navigation.footer
+  nav: 
+    - Home: index.md
+    - LEAF Team: team.md
+    - Algmene Regels: algemeen.md
+    - Onderwereld Regels: onderwereld.md
+  copyright: Copyright &copy; 2025 Karel
+  plugins:
+  - offline
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/leafrp
