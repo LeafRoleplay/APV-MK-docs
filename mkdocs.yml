@@ -2,6 +2,18 @@ site_name: LEAF Roleplay
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - navigation.footer
   logo: leaf.png
   favicon: leaf.png
   palette:
@@ -40,7 +52,6 @@ theme:
 
 extra:
   generator: false
-
   consent:
     title: Cookies
     description: >- 
@@ -50,18 +61,6 @@ extra:
       onze documentatie te verbeteren.
     actions:
       - accept
-  features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.instant.preview
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.sections
-    - navigation.expand
-    - navigation.footer
 
   nav: 
     - Home: index.md
