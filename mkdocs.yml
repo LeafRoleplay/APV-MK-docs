@@ -62,7 +62,7 @@ extra:
     - navigation.sections
     - navigation.expand
     - navigation.footer
-    - header.autohide
+
   nav: 
     - Home: index.md
     - LEAF Team: team.md
