@@ -33,7 +33,8 @@ theme:
     
   language: nl
 
-  extra:
+extra:
+  generator: false
   analytics: 
     feedback:
       title: Was this page helpful?
@@ -49,9 +50,7 @@ theme:
           note: >- 
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
-
-extra:
-  generator: false
+  copyright: Copyright &copy; 2025 Karel
   consent:
     title: Cookies
     description: >- 
@@ -68,7 +67,6 @@ extra:
     - Algmene Regels: algemeen.md
     - Onderwereld Regels: onderwereld.md
 
-  copyright: Copyright &copy; 2025 Karel
 
   plugins:
   - offline

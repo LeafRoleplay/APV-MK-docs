@@ -34,12 +34,12 @@ Denk hierbij aan handelingen zoals **boeien of fouilleren**.
 
 ## **RDM (Random Deathmatch)**
 
-***  1 ganglid** betrokken bij RDM = geen gangstrike
-***  2 of meer leden** betrokken = gangstrike
-***  Hostages zonder reden doodschieten** = gangstrike
-***  Iemand doodschieten na het rippen** = gangstrike
-***  Combatgedrag (zoals direct schieten zonder RP)** = gangstrike
-***  Zonder reden banden schieten en de persoon afmaken met 2 of meer personen** = gangstrike
+*  **1 ganglid** betrokken bij RDM = geen gangstrike
+*  **2 of meer leden** betrokken = gangstrike
+*  **Hostages zonder reden doodschieten** = gangstrike
+*  **Iemand doodschieten na het rippen** = gangstrike
+*  **Combatgedrag (zoals direct schieten zonder RP)** = gangstrike
+*  **Zonder reden banden schieten en de persoon afmaken met 2 of meer personen** = gangstrike
 
 ## **VDM (Vehicle Deathmatch)**
 
