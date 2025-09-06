@@ -33,6 +33,22 @@ theme:
     
   language: nl
 
+  nav: 
+    - Home: index.md
+    - LEAF Team: team.md
+    - Algmene Regels: algemeen.md
+    - Onderwereld Regels: onderwereld.md
+
+
+  plugins:
+  - offline
+  
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/leafrp
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@iiStormz
+
 extra:
   generator: false
   analytics: 
@@ -50,7 +66,9 @@ extra:
           note: >- 
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+
   copyright: Copyright &copy; 2025 Karel
+  
   consent:
     title: Cookies
     description: >- 
@@ -60,20 +78,4 @@ extra:
       onze documentatie te verbeteren.
     actions:
       - accept
-
-  nav: 
-    - Home: index.md
-    - LEAF Team: team.md
-    - Algmene Regels: algemeen.md
-    - Onderwereld Regels: onderwereld.md
-
-
-  plugins:
-  - offline
-  
-  social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/leafrp
-    - icon: fontawesome/brands/tiktok
-      link: https://www.tiktok.com/@iiStormz
   
