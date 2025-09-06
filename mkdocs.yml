@@ -39,18 +39,17 @@ theme:
     - Algmene Regels: algemeen.md
     - Onderwereld Regels: onderwereld.md
 
-
   plugins:
   - offline
   
+
+extra:
+  generator: false
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/leafrp
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@iiStormz
-
-extra:
-  generator: false
   analytics: 
     feedback:
       title: Was this page helpful?
