@@ -14,7 +14,7 @@ Welkom op de pagina van LEAF Roleplay! In het menu aan de linkerkant vind je all
 | **Server**             | **Beschrijving**              | **Link**                      |
 |------------------------|-------------------------------|-------------------------------|
 | **_LEAF Roleplay_**    | Main Discord van LEAF         |  [Join](https://discord.gg/leafrp) |
-| **_LEAF Support_**     | Support Discord van LEAF      | [Join]https://discord.gg/GEPAk344Nf |
-| **_LEAF Onderwereld_** | Onderwereld Disscord van LEAF | [Join]https://discord.gg/D2trrsqPKt |
-| **_LEAF Overheid_**    | Overheid Discord van LEAF     | [Join]https://discord.gg/KnvfV4FMA2 |
-| **_LEAF Speeltijd_**     | Speeltijd Discord van LEAF      | [Join]https://discord.gg/xQzx6p6U6M |
+| **_LEAF Support_**     | Support Discord van LEAF      |  [Join]https://discord.gg/GEPAk344Nf |
+| **_LEAF Onderwereld_** | Onderwereld Disscord van LEAF |  [Join]https://discord.gg/D2trrsqPKt |
+| **_LEAF Overheid_**    | Overheid Discord van LEAF     |  [Join]https://discord.gg/KnvfV4FMA2 |
+| **_LEAF Speeltijd_**     | Speeltijd Discord van LEAF  |  [Join]https://discord.gg/xQzx6p6U6M |
