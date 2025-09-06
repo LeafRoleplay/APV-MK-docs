@@ -45,7 +45,6 @@ theme:
 
 extra:
   generator: false
-  copyright: Copyright &copy; 2025 Karel
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/leafrp
@@ -79,3 +78,4 @@ extra:
     actions:
       - accept
   
+copyright: Copyright &copy; 2025 Karel
