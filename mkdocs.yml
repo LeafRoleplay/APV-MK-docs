@@ -41,7 +41,7 @@ theme:
     - Algmene Regels: algemeen.md
     - Onderwereld Regels: onderwereld.md
 
-plugins:
+  plugins:
   - git-revision-date-localized:
       type: timeago
       time_zone: Europe/Amsterdam
