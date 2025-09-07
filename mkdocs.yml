@@ -47,6 +47,8 @@ theme:
       time_zone: Europe/Amsterdam
       locale: nl
       fallback_to_build_date: false
+  - search:
+      lang: nl
 
 extra:
   generator: false
