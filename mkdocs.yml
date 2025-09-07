@@ -2,7 +2,7 @@ site_name: LEAF Roleplay
 site_description: 'Wet en regelgeving van LEAF roleplay'
 site_url: https://leafroleplay.nl
 repo_url: 'https://github.com/LeafRoleplay/LeafRoleplay'
-repo_name: 'Leaf Roleplay/APV-Karel'
+repo_name: 'Leaf Roleplay'
 theme:
   name: material
   features:
