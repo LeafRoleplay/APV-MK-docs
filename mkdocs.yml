@@ -1,5 +1,5 @@
 site_name: LEAF Roleplay
-site_url: https://mydomain.org/mysite
+site_url: https://leafroleplay.nl
 theme:
   name: material
   features:
@@ -20,13 +20,13 @@ theme:
    # Palette toggle for light mode
     - scheme: slate
       toggle:
-        icon: material/brightness-7 
+        icon: material/weather-sunny 
         name: Switch to light mode
 
     # Palette toggle for dark mode
     - scheme: default
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: Switch to dark mode
       primary: deep purple
       accent: black
