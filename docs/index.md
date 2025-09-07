@@ -1,6 +1,6 @@
 # LEAF Roleplay
 
-Welkom op de pagina van LEAF Roleplay! In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op LEAF Roleplay.
+Welkom op de pagina van LEAF Roleplay! In het menu aan de bovenkant vind je alle verschillende documenten die betrekking hebben op LEAF Roleplay.
 
 ## Inhoud
 
