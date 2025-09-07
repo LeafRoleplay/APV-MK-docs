@@ -18,6 +18,10 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Set up plugin
+        run: |
+          pip install mkdocs-git-revision-date-localized-plugin
+
       - name: Install dependencies
         run: |
           pip install mkdocs mkdocs-material
