@@ -32,8 +32,6 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: deep purple
-      accent: black
     
   language: nl
 
