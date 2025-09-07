@@ -50,7 +50,9 @@ extra:
       link: https://discord.gg/leafrp
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@iiStormz
-  analytics: 
+  analytics:
+    provider: google
+    property: G-NV5M4K299L
     feedback:
       title: Was this page helpful?
       ratings:
