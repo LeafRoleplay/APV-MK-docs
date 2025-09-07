@@ -9,6 +9,11 @@
 * Elke binnenval moet onderbouwd worden met **bewijs** (video, screenshots of opnames).
 * Bewijs moet **direct** worden overlegd aan de OWC.
 
+## **Third-Party**
+
+* Indien er **geen** Politie aanwezig is mag de overval gecounterd worden. 
+* Indien er **wel** Politie aanwezig is mag de overval **niet** gecounterd worden.
+
 ## **Alliantiebeleid**
 
 * Je mag slechts **één bondgenootschap (ally)** hebben met een andere gang.
