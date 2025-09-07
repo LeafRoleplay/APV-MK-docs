@@ -4,7 +4,7 @@ Welkom op de pagina van LEAF Roleplay! In het menu aan de bovenkant vind je alle
 
 ## Inhoud
 
-* De Algemene Plaatselijke Verordening bevat alle regels (zogezegd de server regels).
+* De Algemene Plaatselijke Verordening bevat alle regels.
 * De rest van de pagina's zijn informatie over in-game zaken. 
 
 
