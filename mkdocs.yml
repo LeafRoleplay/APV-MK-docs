@@ -1,8 +1,8 @@
-site_name: LEAF Roleplay
-site_description: 'Wet en regelgeving van LEAF roleplay'
-site_url: https://leafroleplay.nl
-repo_url: 'https://github.com/LeafRoleplay/LeafRoleplay'
-repo_name: 'Leaf Roleplay'
+site_name: Broodje Roleplay
+site_description: 'Wet en regelgeving van Broodje roleplay'
+site_url: https://Broodjeroleplay.nl
+repo_url: 'http://github.com/LeafRoleplay/BroodjeRoleplay'
+repo_name: 'Broodje Roleplay'
 theme:
   name: material
   features:
@@ -18,8 +18,8 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.footer
-  logo: leaf.png
-  favicon: leaf.png
+  logo: Broodje.png
+  favicon: Broodje.png
   palette:
    # Palette toggle for light mode
     - scheme: slate
@@ -37,7 +37,7 @@ theme:
 
   nav: 
     - Home: index.md
-    - LEAF Team: team.md
+    - Broodje Team: team.md
     - Algmene Regels: algemeen.md
     - Onderwereld Regels: onderwereld.md
 
@@ -46,7 +46,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/leafrp
+      link: https://discord.gg/QF64rNa4cV
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@iiStormz
   analytics:
@@ -63,7 +63,7 @@ extra:
     actions:
       - accept
   
-copyright: Copyright &copy; 2025 LEAF Roleplay - Alle rechten voorbehouden.
+copyright: Copyright &copy; 2025 Broodje Roleplay - Alle rechten voorbehouden.
 
 plugins:
   - git-revision-date-localized:
